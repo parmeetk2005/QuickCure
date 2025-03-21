@@ -1,4 +1,4 @@
-**QuickCure - Your Personalized Healthcare Buddy**🩺❤️‍🩹
+# **QuickCure - Your Personalized Healthcare Buddy**🩺❤️‍🩹
 
 📌 **INTRODUCTION**:
 
