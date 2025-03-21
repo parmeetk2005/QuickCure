@@ -42,5 +42,7 @@
 
   Quick Cure is your own personal digital healthcare assistant, guiding you to the correct treatment at the correct time. Let's simplify, smarten, and make healthcare more accessible together!
 
+**CONTRIBUTING** 🤝:
+  Contributions are welcome! If you'd like to improve the app, feel free to fork the repository and create a pull request.
 
 ❤ *Let's innovate healthcare together!* ❤
